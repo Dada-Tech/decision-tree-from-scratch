@@ -13,4 +13,4 @@ This notebook explores building a decision tree classifier from scratch, then be
   * From Sklearn
 
 
-![image.png](decistion_tree.png){:height="50%" width="50%"}
+![image.png](decistion_tree.png)
